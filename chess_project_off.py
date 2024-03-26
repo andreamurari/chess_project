@@ -14,6 +14,7 @@ import seaborn as sb
 import matplotlib.pyplot as plt
 import sklearn as skl
 import statsmodels.api as sm
+import streamlit as st
 
 """##**A) Data-set presentation**
 
